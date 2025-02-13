@@ -1,0 +1,4 @@
+﻿  Math Game.cpp
+C:\C++ project\Math Game\Math-Game\Math Game\Math Game.cpp(147,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\C++ project\Math Game\Math-Game\Math Game\Math Game.cpp(154,1): warning C4715: 'CalculateQuestion': not all control paths return a value
+  Math Game.vcxproj -> C:\C++ project\Math Game\Math-Game\Math Game\x64\Debug\Math Game.exe
